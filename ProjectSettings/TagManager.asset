@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Grass
+    uniqueID: 2668621029
+    locked: 0
+  - name: Building
+    uniqueID: 1289400293
+    locked: 0
+  - name: Trees
+    uniqueID: 3644975013
+    locked: 0
+  - name: Player
+    uniqueID: 158250581
+    locked: 0
